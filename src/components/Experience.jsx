@@ -11,3 +11,4 @@ export const Experience = () => {
     </>
   );
 };
+// Performance optimization
