@@ -19,3 +19,4 @@ export function Balloon(props) {
 }
 
 useGLTF.preload("/models/Balloon.glb");
+// Balloon animation improvements
