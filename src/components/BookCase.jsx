@@ -54,3 +54,4 @@ export function BookCase(props) {
 }
 
 useGLTF.preload("/models/BookCaseWide.glb");
+// BookCase component enhancements
