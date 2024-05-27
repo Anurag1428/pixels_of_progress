@@ -26,3 +26,4 @@ export function CouchSmall(props) {
 }
 
 useGLTF.preload("/models/Couch Small.glb");
+// Couch interaction improvements
