@@ -40,3 +40,4 @@ export function Lamp(props) {
 }
 
 useGLTF.preload("/models/Lamp.glb");
+// Enhanced lamp lighting effects
