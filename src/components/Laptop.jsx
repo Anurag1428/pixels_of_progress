@@ -32,3 +32,4 @@ export function Laptop(props) {
 }
 
 useGLTF.preload("/models/Laptop.glb");
+// Laptop screen animations
