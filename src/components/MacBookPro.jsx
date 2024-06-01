@@ -47,3 +47,4 @@ export function MacBookPro(props) {
   );
 }
 useGLTF.preload("/models/MacBook Pro.glb");
+// MacBook Pro premium features
