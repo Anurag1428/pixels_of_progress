@@ -163,3 +163,4 @@ export function Mailbox(props) {
 }
 
 useGLTF.preload("/models/Mailbox v2.glb");
+// Mailbox interaction system
