@@ -18,3 +18,4 @@ export function Monitor(props) {
 }
 
 useGLTF.preload("/models/Monitor.glb");
+// Monitor display improvements
