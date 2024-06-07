@@ -28,3 +28,4 @@ export function PalmTree(props) {
 }
 
 useGLTF.preload("/models/Palm tree.glb");
+// Palm tree wind effects
