@@ -24,3 +24,4 @@ export function ParkBench(props) {
 }
 
 useGLTF.preload("/models/Park Bench.glb");
+// Park bench comfort features
