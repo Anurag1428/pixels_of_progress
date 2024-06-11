@@ -49,3 +49,4 @@ export function Pigeon(props) {
 }
 
 useGLTF.preload("/models/Pigeon.gltf");
+// Pigeon AI behavior system
