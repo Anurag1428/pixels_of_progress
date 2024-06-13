@@ -21,3 +21,4 @@ export function Star(props) {
 }
 
 useGLTF.preload("/models/Star.gltf");
+// Star twinkling effects
