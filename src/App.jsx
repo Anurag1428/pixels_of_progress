@@ -17,3 +17,4 @@ function App() {
 
 export default App;
 // App performance optimizations
+// Production deployment ready
